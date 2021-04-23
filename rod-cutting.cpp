@@ -1,3 +1,5 @@
+/*use dynamic programming*/
+
 #include <iostream>
 #include <vector>
 #include <bits/stdc++.h>
