@@ -1,3 +1,5 @@
+/*IMPLEMENTED AS GREEDY ALGORITHM*/
+
 #include <iostream>
 #include <vector>
 #include <list>
